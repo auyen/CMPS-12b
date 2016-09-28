@@ -1,1 +1,2 @@
-# CMPS-12b
+# CMPS-12b Introduction to Data Structures
+# UCSC Spring 2015
